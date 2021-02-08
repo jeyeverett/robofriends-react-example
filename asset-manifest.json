@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robros/static/css/main.803824f5.chunk.css",
-    "main.js": "/robros/static/js/main.174b2820.chunk.js",
-    "main.js.map": "/robros/static/js/main.174b2820.chunk.js.map",
-    "runtime-main.js": "/robros/static/js/runtime-main.fa3beb50.js",
-    "runtime-main.js.map": "/robros/static/js/runtime-main.fa3beb50.js.map",
+    "main.css": "/robros/static/css/main.ad3611a8.chunk.css",
+    "main.js": "/robros/static/js/main.dbf113fb.chunk.js",
+    "main.js.map": "/robros/static/js/main.dbf113fb.chunk.js.map",
+    "runtime-main.js": "/robros/static/js/runtime-main.1d40a416.js",
+    "runtime-main.js.map": "/robros/static/js/runtime-main.1d40a416.js.map",
     "static/css/2.31461e4f.chunk.css": "/robros/static/css/2.31461e4f.chunk.css",
-    "static/js/2.734ef356.chunk.js": "/robros/static/js/2.734ef356.chunk.js",
-    "static/js/2.734ef356.chunk.js.map": "/robros/static/js/2.734ef356.chunk.js.map",
-    "static/js/3.5218428c.chunk.js": "/robros/static/js/3.5218428c.chunk.js",
-    "static/js/3.5218428c.chunk.js.map": "/robros/static/js/3.5218428c.chunk.js.map",
+    "static/js/2.94a75421.chunk.js": "/robros/static/js/2.94a75421.chunk.js",
+    "static/js/2.94a75421.chunk.js.map": "/robros/static/js/2.94a75421.chunk.js.map",
+    "static/js/3.18c69466.chunk.js": "/robros/static/js/3.18c69466.chunk.js",
+    "static/js/3.18c69466.chunk.js.map": "/robros/static/js/3.18c69466.chunk.js.map",
     "index.html": "/robros/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/robros/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.803824f5.chunk.css.map": "/robros/static/css/main.803824f5.chunk.css.map",
-    "static/js/2.734ef356.chunk.js.LICENSE.txt": "/robros/static/js/2.734ef356.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robros/static/media/Bulgatti.657d80f9.ttf"
+    "static/css/main.ad3611a8.chunk.css.map": "/robros/static/css/main.ad3611a8.chunk.css.map",
+    "static/js/2.94a75421.chunk.js.LICENSE.txt": "/robros/static/js/2.94a75421.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robros/static/media/Bulgatti.e2450c76.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa3beb50.js",
+    "static/js/runtime-main.1d40a416.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.734ef356.chunk.js",
-    "static/css/main.803824f5.chunk.css",
-    "static/js/main.174b2820.chunk.js"
+    "static/js/2.94a75421.chunk.js",
+    "static/css/main.ad3611a8.chunk.css",
+    "static/js/main.dbf113fb.chunk.js"
   ]
 }
