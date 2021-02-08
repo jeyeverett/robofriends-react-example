@@ -1,4 +1,3 @@
-//The App component will contain all of our other components
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import CardList from '../components/CardList'; //We imported all Cards into CardList and then imported that here
