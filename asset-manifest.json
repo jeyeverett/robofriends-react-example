@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robofriends-react-example/static/css/main.6692bc05.chunk.css",
-    "main.js": "/robofriends-react-example/static/js/main.f6d61946.chunk.js",
-    "main.js.map": "/robofriends-react-example/static/js/main.f6d61946.chunk.js.map",
-    "runtime-main.js": "/robofriends-react-example/static/js/runtime-main.93018226.js",
-    "runtime-main.js.map": "/robofriends-react-example/static/js/runtime-main.93018226.js.map",
-    "static/css/2.31461e4f.chunk.css": "/robofriends-react-example/static/css/2.31461e4f.chunk.css",
-    "static/js/2.734ef356.chunk.js": "/robofriends-react-example/static/js/2.734ef356.chunk.js",
-    "static/js/2.734ef356.chunk.js.map": "/robofriends-react-example/static/js/2.734ef356.chunk.js.map",
-    "static/js/3.5218428c.chunk.js": "/robofriends-react-example/static/js/3.5218428c.chunk.js",
-    "static/js/3.5218428c.chunk.js.map": "/robofriends-react-example/static/js/3.5218428c.chunk.js.map",
-    "index.html": "/robofriends-react-example/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/robofriends-react-example/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.6692bc05.chunk.css.map": "/robofriends-react-example/static/css/main.6692bc05.chunk.css.map",
-    "static/js/2.734ef356.chunk.js.LICENSE.txt": "/robofriends-react-example/static/js/2.734ef356.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends-react-example/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/robros/static/css/main.803824f5.chunk.css",
+    "main.js": "/robros/static/js/main.174b2820.chunk.js",
+    "main.js.map": "/robros/static/js/main.174b2820.chunk.js.map",
+    "runtime-main.js": "/robros/static/js/runtime-main.fa3beb50.js",
+    "runtime-main.js.map": "/robros/static/js/runtime-main.fa3beb50.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robros/static/css/2.31461e4f.chunk.css",
+    "static/js/2.734ef356.chunk.js": "/robros/static/js/2.734ef356.chunk.js",
+    "static/js/2.734ef356.chunk.js.map": "/robros/static/js/2.734ef356.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/robros/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/robros/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/robros/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robros/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.803824f5.chunk.css.map": "/robros/static/css/main.803824f5.chunk.css.map",
+    "static/js/2.734ef356.chunk.js.LICENSE.txt": "/robros/static/js/2.734ef356.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robros/static/media/Bulgatti.657d80f9.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.93018226.js",
+    "static/js/runtime-main.fa3beb50.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.734ef356.chunk.js",
-    "static/css/main.6692bc05.chunk.css",
-    "static/js/main.f6d61946.chunk.js"
+    "static/css/main.803824f5.chunk.css",
+    "static/js/main.174b2820.chunk.js"
   ]
 }
