@@ -14,7 +14,7 @@ const CardList = ({ robots }) => {
     //             email={robots[i].email}
     //         />);
     // })
-
+    console.log('CardList');
     return (
         <div>
             {

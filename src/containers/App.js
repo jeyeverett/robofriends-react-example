@@ -5,6 +5,7 @@ import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll'; //Scroll is a custom component we created
 import ErrorBoundary from '../components/ErrorBoundary';
 import { setSearchfield, requestRobots } from '../actions';
+import Header from '../components/Header';
 
 //Note that a component with state is called 'smart' and smart components tend to have the class syntax
 //Also keep in mind React lifecycle hooks i.e. what methods are called when an instance of a component is being created and inserted into the dom (mounting, updating, unmounting) - note that these methods run in a specific order
@@ -46,8 +47,8 @@ class App extends Component {
             <h1 className='tc'>LOADING</h1> :   
             (
                 <div className='tc'>
-                    <h1 className='f1'>RoBros</h1>
-                        <SearchBox searchChange={onSearchChange} />
+                    <Header />
+                    <SearchBox searchChange={onSearchChange} />
                     <Scroll>
                         <ErrorBoundary>
                             <CardList robots={filteredRobots}/>
