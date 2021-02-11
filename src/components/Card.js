@@ -5,8 +5,8 @@ import React from 'react'; //Because we are writing JSX, we always need to impor
 //Note that we can destructure props inside the function parameter field i.e. {name, email, id} in the parameter field is equivalent to const {name, email, id} = props;
 const Card = ({name, email, id}) => { 
     return (
-        <div className='bg-green dib br3 pa1 ma2 grow bw2 shadow-5 tc'>
-            <img src={`https://robohash.org/${id}?set=set3`} alt='' />
+        <div className='bg-green dib br3 pa4 ma2 grow bw2 shadow-5 tc'>
+            <img src={`https://robohash.org/${id}?size=200x200&set=set3`} alt='RoBro' width="200" height="200" />
             <div>
                 <h2 className='ttu white f4'>{name}</h2>
                 <p className='ttu white i'>{email}</p>
