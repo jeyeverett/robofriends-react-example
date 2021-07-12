@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Use the latest 2.1 version of CircleCI pipeline process engine.
+=======
+# Use the latest 2.1 version of CircleCI pipeline process engine. 
+>>>>>>> 82bd993101db39bd6fdcbd5aacac41288f426b50
 # See: https://circleci.com/docs/2.0/configuration-reference
 version: 2.1
 
@@ -25,8 +29,7 @@ jobs:
       # The orb install-packages step will also automatically cache them for faster future runs.
       - node/install-packages
       # If you are using yarn instead npm, remove the line above and uncomment the two lines below.
-      - run:
-          echo "My first hello!"
+      - run: echo "My first hello!"
           # name: Run tests
           # command: npm test
   build-and-test-2:
