@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expect to render MainPage component 1`] = `
+<div
+  className="tc"
+>
+  <div>
+    <h1
+      className="f1"
+    >
+      RoBros
+    </h1>
+    <button
+      id="counter"
+      onClick={[Function]}
+    >
+      Count: 
+      0
+    </button>
+  </div>
+  <div>
+    <input
+      aria-label="Search Robros"
+      className="pa3 mb3 br4 tc ba b--green bg-lightest-blue w5"
+      placeholder="Search RoBros"
+      type="search"
+    />
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "white",
+        "border": "1px solid white",
+        "height": "500px",
+        "overflowY": "scroll",
+      }
+    }
+  >
+    <div />
+  </div>
+</div>
+`;

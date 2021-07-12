@@ -1,3 +1,5 @@
+//Note that when an action is dispatched, the rootReducer receives it and uses the action.type to apply any reducers that process the action.type 
+
 import { 
     CHANGE_SEARCHFIELD, 
     REQUEST_ROBOTS_PENDING, 
